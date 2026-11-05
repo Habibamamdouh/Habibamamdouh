@@ -14,9 +14,9 @@ I'm a Computer Science graduate interested in Software Quality Assurance.
 - Git & GitHub
 
 ## 🚀 Featured Projects
-- SauceDemo Manual Testing
-- LUMA Automation Testing
-- Attendify Graduation Project
+- [SauceDemo Manual Testing](https://github.com/Habibamamdouh/SauceDemo-Manual-Testing-Project)
+- [LUMA Automation Testing](https://github.com/Habibamamdouh/LUMA)
+- [Attendify Graduation Project](https://github.com/Habibamamdouh/Face-Recognition-Attendance-System)
 
 ## 📫 Connect with Me
-- LinkedIn: ((https://www.linkedin.com/in/habibamamdouh/))
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/habibamamdouh/)
