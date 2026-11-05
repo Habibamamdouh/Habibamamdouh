@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Habiba Mamdouh 👋
 
-<!--
-**Habibamamdouh/Habibamamdouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior QA Engineer | ISTQB® CTFL Certified
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in Software Quality Assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing (Postman)
+- Automation Testing (Selenium, Java, TestNG)
+- SQL
+- Git & GitHub
+
+## 🚀 Featured Projects
+- SauceDemo Manual Testing
+- LUMA Automation Testing
+- Attendify Graduation Project
+
+## 📫 Connect with Me
+- LinkedIn: [My LinkedIn]((https://www.linkedin.com/in/habibamamdouh/))
