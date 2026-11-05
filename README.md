@@ -19,4 +19,4 @@ I'm a Computer Science graduate interested in Software Quality Assurance.
 - Attendify Graduation Project
 
 ## 📫 Connect with Me
-- LinkedIn: [My LinkedIn]((https://www.linkedin.com/in/habibamamdouh/))
+- LinkedIn: ((https://www.linkedin.com/in/habibamamdouh/))
